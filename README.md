@@ -17,7 +17,7 @@
   
 </div>
 
-![Code preview](defixinfographic.png)
+![Code preview](mev.png)
 
 ## 🚀 Features
 
