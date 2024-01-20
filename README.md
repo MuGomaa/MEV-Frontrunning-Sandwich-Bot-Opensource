@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="gygon.png" width="500"/>
+  <img src="gygon.png" width="400"/>
   <h1>GYGON</h1>
   <h2>MEV Frontrunning Sandwich Bot</h2>
   <p>First ever opensource frontrunner that actually works lol (BSC Demo)</p>
