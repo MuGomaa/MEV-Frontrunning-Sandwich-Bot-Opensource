@@ -2,6 +2,7 @@
   <img src="gygon.png" width="400"/>
   <h1>GYGON</h1>
   <h2>MEV Frontrunning Sandwich Bot</h2>
+  <h3>If you top up your BNB balance you need to restart the bot!!</h3>
   <p>First ever opensource frontrunner that actually works lol (BSC Demo)</p>
   
   
